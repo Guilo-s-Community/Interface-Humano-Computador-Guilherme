@@ -375,3 +375,5 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 **Links dos vídeos:**
 
 **Respostas do Formulário do Usuário:**
+
+**Conclusão da avaliação por observação do usuário:**
