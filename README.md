@@ -4,9 +4,10 @@
 
 **Projeto XX**
 
-**\<colocar o título do projeto\>**
+**Detecção e Identificação de som ambiente para auxílio doméstico de pessoas surdas**
 
 **Membros de Equipe:**
+
 
 # **Entrega 1 (data) \[em andamento/concluído\]**
 
