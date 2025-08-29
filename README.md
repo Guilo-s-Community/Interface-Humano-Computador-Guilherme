@@ -44,7 +44,7 @@
 
 1.8) O que o usuário recebe de benefício ao usar esse produto? 
 
-Independência/autonomia e percepcão do ambiente.
+- Independência/autonomia e percepcão do ambiente.
 
 1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
 
