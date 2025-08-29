@@ -60,7 +60,7 @@
 - Usuário : Pessoas de qualquer idade com qualquer grau de surdez.
 - Objetivo : Saber onde e quando ocorreu um barulho.
 - Interação : Receber uma notificação e agir conforme vontade.
-- Equipamento : Celular
+- Equipamento : Celular.
 
 - O contexto de uso é: Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu gato em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
