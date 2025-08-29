@@ -8,36 +8,64 @@
 
 **Membros de Equipe:**
 
+- Guilherme Marcato Mendes Justiça - 22.225.030-0
+- Paulo Vinicius Araujo Feitosa - 24.122.042-5
 
-# **Entrega 1 (data) \[em andamento/concluído\]**
-
-# 
+# **Entrega 1 (29/08) - [concluído]**
 
 **1\) Conhecendo o Problema** 
 
-1.1) Membros de Equipe (nome completo e número de matrícula):
+1.1) Membros de Equipe:
+- Guilherme Marcato Mendes Justiça 22.225.030-0
+- Paulo Vinicius Araujo Feitosa 24.122.042-5
 
 1.2) Título Original do TCC:
 
+- Detecção e identificação de som ambiente para auxílioo doméstico de pessoas com deficiência auditiva
+
 1.3) Nome do orientador:
 
-1.4) Previsto desenvolver Interface? (   ) Sim     (   ) Não
+- Plinio Thomaz Aquino Junior
+
+1.4) Previsto desenvolver Interface? ( x ) Sim  (  ) Não
 
 1.5) Objetivo do trabalho?
 
+- Desenvolver um hardware capaz de detectar e identificar um som e enviar para um aplicativo, auxiliando de forma direta a independência de pessoas surdas, por meio de uma notificação.
+
 1.6) Qual o produto final? 
+
+- Hardware para detectar e identificar som.
+- Software para experiência do usuário.
 
 1.7) Quem é o usuário final deste produto?
 
+- Pessoas surdas com intenção de utilizar a tecnologia ao seu favor.
+
 1.8) O que o usuário recebe de benefício ao usar esse produto? 
+
+Independência/autonomia e percepcão do ambiente.
 
 1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
 
 1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)?
+- Hardware: Raspberry Pi 4 Model B (8 GB).
+- Microfone Adafruit I2S MEMS SPH0645LM4H.
+- Bibliotecas e frameworks: sounddevice, NumPy , TensorFlow, YAMNet.
+- Armazenamento de Dados : Serviços da Firebase.
+- Mobile: Flutter (Dart) para o aplicativo multiplataforma.
 
-1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que professor explicou na sala)
+1.11) Qual é o contexto de uso dessa aplicação?
 
-# **Entrega 2  (data) \[em andamento/concluído\]**
+- Usuário : Pessoas de qualquer idade com qualquer grau de surdez.
+- Objetivo : Saber onde e quando ocorreu um barulho.
+- Interação : Receber uma notificação e agir conforme vontade.
+- Equipamento : Celular
+
+- O contexto de uso é: Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu gato em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
+
+
+# **Entrega 2 (data) \[em andamento/concluído\]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -45,7 +73,7 @@
 
 1) **Público Alvo**
 
-2) **Análise de Concorrência (quando identificado concorrência \- ATENÇÃO: CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA)**  
+2) **Análise de Concorrência**  
 1. **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):**
 
 2. **Características e funcionalidades dos concorrentes:**
