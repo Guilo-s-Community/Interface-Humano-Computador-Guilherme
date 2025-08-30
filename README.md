@@ -65,39 +65,33 @@
 - O contexto de uso é: Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu gato em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
 
-# **Entrega 2 (data) \[em andamento/concluído\]**
+# **Entrega 2 (data) [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
 **Dica: fator mais importante desta entrega é a equipe conseguir identificar e documentar prints de telas de interfaces concorrentes (ou interfaces representativas para o público alvo). Esses prints serão usados na fase de caracterização de padrões, affordances, heurísticas, etc.**
 
 1) **Público Alvo**
-
+- Pessoa surdas e/ou pessoas interessadas em tecnologia.
 2) **Análise de Concorrência**  
 1. **Principais concorrentes mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração):**
-
+- Positivo Casa Inteligente
+- Amazon Alexa
+- Smart Life
+- LG Thinq
+- Philips Hue
+- Tuya 
 2. **Características e funcionalidades dos concorrentes:**
-
+- Todos estão envolvidos no contexto de IoT, conectividade com hardware, software e ambiente, maioria possuem as mesmas características padrões do mercado e funcionalidades parecidas para cada tipo de dispositivo.
 3. **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
-
+- Avaliações dos usuários do aplicativo Positivo Casa Inteligente:
+  "Prático","Experiência excelente","Lâmpada pisca muito para emparelhar","Aplicativo é lento","Não funciona em paisagem no tablet"
 4. **Preços e modelos de negócio:**
-
+- "Gratuito, depende da compra de dispositivos"
 5. **Padrões e tendências no mercado:**
-
-**Referências:**
-
-3) **Análise de Concorrência BASEADO NOS SOFTWARES QUE O PÚBLICO ALVO USA**   
-6. **Principais softwares mais utilizados pelo seu público-alvo (link, descrição e imagens de ilustração). SOFTWARES que seu público mais utiliza no dia a dia, para fazer suas tarefas:**
-
-7. **Características e funcionalidades dos Softwares:**
-
-8. **Experiência do usuário (UX) e pesquisa de satisfação do cliente e opiniões:**
-
-9. **Preços e modelos de negócio:**
-
-10. **Padrões e tendências no mercado:**
-
-**Referências:**
+- Navegação no estilo BottomNavigation
+- Tela principal com os dispositivos aparecendo de forma de cards
+- Simples
 
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
