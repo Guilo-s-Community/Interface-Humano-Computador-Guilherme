@@ -93,6 +93,35 @@
 - Tela principal com os dispositivos aparecendo de forma de cards
 - Simples
 
+6. **Telas dos aplicativos**
+   
+   ![Positivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/opcaopositivo.jpg?raw=true)
+   
+   ![Positivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/cadastropositivo.jpg?raw=true)
+
+   ![Positivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/loginpositivo.jpg?raw=true)
+   
+   ![SmartLife](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/opcaosmartlife.jpg?raw=true)
+
+   ![SmartLife](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/cadastrosmartlife.jpg?raw=true)
+   
+   ![SmartLife](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/loginsmartlife.jpg?raw=true)
+
+   ![Alexa](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tpalexa.jpg?raw=true)
+
+   ![GoogleHome](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tpgooglehome.jpg?raw=true)
+   
+   ![PhilipsHue](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tphue.jpg?raw=true)
+
+   ![LGThinq](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tplgthinq.jpg?raw=true)
+   
+   ![Positivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tppositivo.jpg?raw=true)
+   
+   ![Smartlife](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tpsmartlife.jpg?raw=true)
+   
+   ![Tuya](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tptuya.jpg?raw=true)
+
+   
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
 **1\) Personas**   
