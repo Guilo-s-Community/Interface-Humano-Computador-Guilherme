@@ -139,6 +139,9 @@ Bianca quer paz e busca alternativas para solucionar seu problema e acredita que
 
 **2\) Mapa de Empatia \[1 por equipe\]**
 
+![MapaEmpatia](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/imagem_2025-09-08_143917738.png?raw=true)
+
+
 **3\) Contexto de Uso \[1 por equipe\]**
 Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu cachorro em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
