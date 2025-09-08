@@ -1,5 +1,3 @@
-# Interface-Humano-Computador-Guilherme
-
 **Projeto de IHC**
 
 **Projeto XX**
