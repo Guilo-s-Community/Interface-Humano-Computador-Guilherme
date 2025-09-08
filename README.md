@@ -47,11 +47,16 @@
 - Independência/autonomia e percepcão do ambiente.
 
 1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
+	
+- Cadastro
+- Login 
+- Cadastro do dispositivo
+- Edição do perfil
+- Configuração do dispositivo
 
 1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)?
 - Hardware: Raspberry Pi 4 Model B (8 GB).
 - Microfone Adafruit I2S MEMS SPH0645LM4H.
-- Bibliotecas e frameworks: sounddevice, NumPy , TensorFlow, YAMNet.
 - Armazenamento de Dados : Serviços da Firebase.
 - Mobile: Flutter (Dart) para o aplicativo multiplataforma.
 
