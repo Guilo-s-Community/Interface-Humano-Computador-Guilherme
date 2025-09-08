@@ -65,7 +65,7 @@
 - O contexto de uso é: Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu gato em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
 
-# **Entrega 2 (data) [concluído]**
+# **Entrega 2 29/08 [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -124,12 +124,18 @@
    
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
-**1\) Personas**   
+**1\) Personas** 
+
 **\[1 solução completa por pessoa da equipe \- identificar o autor\]**
+Persona Primária
+Bianca Bianca, professora, 45 anos
+Bianca Bianca é surda de nascença e trabalha como professora de LIBRAS em sua própria escola. Bianca passa bastante tempo em sua casa preparando as aulas, as refeições para seu filho de 10 anos e cuidando do Thor, o cachorro da família. Bianca não desenvolveu muitas habilidades com a tecnologia e depende muito do seu marido Tobias em atividades da área. Em seu cotidiano, Bianca se sente sobrecarregada, muitas situações deixam ela preocupada, ela precisa prestar muita atenção em todos os lugares da casa, pois têm que ficar vendo o celular para abrir a porta assim que o filho chegue em casa, ver se o cachorro está aprontando em outro cômodo, cuidar da preparação da cozinha, garantir que não tem nenhuma torneira aberta e outros pensamentos que causam ansiedade.
+Bianca quer paz e busca alternativas para solucionar seu problema e acredita que a tecnologia pode ajudá-la.
 
 **2\) Mapa de Empatia \[1 por equipe\]**
 
 **3\) Contexto de Uso \[1 por equipe\]**
+Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu cachorro em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
 **4\) Jornada do Usuário \[1 por equipe\]**
 
@@ -140,10 +146,11 @@
 **Dica: Cada membro de equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.**
 
 1) **Cenário de Análise/Problema**
+Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu cachorro em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
-2) ## **Questões de Refinamento**
+3) ## **Questões de Refinamento**
 
-3) **Refinamento do Cenário Análise/Problema**
+4) **Refinamento do Cenário Análise/Problema**
 
 # 
 
