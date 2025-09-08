@@ -120,15 +120,17 @@
    ![Smartlife](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tpsmartlife.jpg?raw=true)
    
    ![Tuya](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tptuya.jpg?raw=true)
-
    
 # **Entrega 3 (data) \[em andamento/concluído\]**
 
 **1\) Personas** 
 
 **\[1 solução completa por pessoa da equipe \- identificar o autor\]**
+
 Persona Primária
+
 Bianca Bianca, professora, 45 anos
+
 Bianca Bianca é surda de nascença e trabalha como professora de LIBRAS em sua própria escola. Bianca passa bastante tempo em sua casa preparando as aulas, as refeições para seu filho de 10 anos e cuidando do Thor, o cachorro da família. Bianca não desenvolveu muitas habilidades com a tecnologia e depende muito do seu marido Tobias em atividades da área. Em seu cotidiano, Bianca se sente sobrecarregada, muitas situações deixam ela preocupada, ela precisa prestar muita atenção em todos os lugares da casa, pois têm que ficar vendo o celular para abrir a porta assim que o filho chegue em casa, ver se o cachorro está aprontando em outro cômodo, cuidar da preparação da cozinha, garantir que não tem nenhuma torneira aberta e outros pensamentos que causam ansiedade.
 Bianca quer paz e busca alternativas para solucionar seu problema e acredita que a tecnologia pode ajudá-la.
 
