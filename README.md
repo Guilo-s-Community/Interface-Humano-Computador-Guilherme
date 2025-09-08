@@ -122,30 +122,71 @@
    
    ![Smartlife](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tpsmartlife.jpg?raw=true)
    
-   ![Tuya](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tptuya.jpg?raw=true)
+   ![Tuya](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tptuya.jpg?raw=true) 
    
-# **Entrega 3 (data) \[em andamento/concluído\]**
+# **Entrega 3 08/09 [concluído]**
 
 **1\) Personas** 
 
-**\[1 solução completa por pessoa da equipe \- identificar o autor\]**
+*Persona Primária*
 
-Persona Primária
+Bianca Bianca, 45 anos, professora de LIBRAS
 
-Bianca Bianca, professora, 45 anos
+Bianca Bianca é surda de nascença e trabalha como professora de LIBRAS em sua própria escola. Ela passa bastante tempo em casa preparando aulas, fazendo as refeições para o filho de 10 anos e cuidando de Thor, o cachorro da família. Bianca não desenvolveu muitas habilidades com tecnologia e depende muito do marido, Tobias, em atividades dessa área.
+Em seu cotidiano, sente-se sobrecarregada: muitas situações a deixam preocupada, pois precisa prestar atenção em todos os lugares da casa. Fica constantemente de olho no celular para abrir a porta assim que o filho chega, verificar se o cachorro está aprontando em outro cômodo, cuidar do preparo das refeições, garantir que não há nenhuma torneira aberta e outros pontos que geram ansiedade.
 
-Bianca Bianca é surda de nascença e trabalha como professora de LIBRAS em sua própria escola. Bianca passa bastante tempo em sua casa preparando as aulas, as refeições para seu filho de 10 anos e cuidando do Thor, o cachorro da família. Bianca não desenvolveu muitas habilidades com a tecnologia e depende muito do seu marido Tobias em atividades da área. Em seu cotidiano, Bianca se sente sobrecarregada, muitas situações deixam ela preocupada, ela precisa prestar muita atenção em todos os lugares da casa, pois têm que ficar vendo o celular para abrir a porta assim que o filho chegue em casa, ver se o cachorro está aprontando em outro cômodo, cuidar da preparação da cozinha, garantir que não tem nenhuma torneira aberta e outros pensamentos que causam ansiedade.
-Bianca quer paz e busca alternativas para solucionar seu problema e acredita que a tecnologia pode ajudá-la.
+Bianca deseja ter mais tranquilidade e busca alternativas para resolver esses problemas, acreditando que a tecnologia pode ajudá-la.
 
-**2\) Mapa de Empatia \[1 por equipe\]**
+*Persona Secundária*
+
+Tobias Tobias, 47 anos, técnico em manutenção elétrica
+
+Tobias é casado com Bianca e juntos cuidam do filho de 10 anos. Diferente da esposa, Tobias tem maior familiaridade com tecnologia, embora use mais no trabalho do que no dia a dia em casa. Ele entende o quanto a surdez de Bianca traz preocupações extras e procura sempre estar disponível para apoiá-la.
+No entanto, Tobias também tem sua rotina corrida: trabalha em uma empresa de manutenção elétrica, o que faz com que passe boa parte do dia fora. Isso o preocupa, já que sabe que Bianca pode se sentir sobrecarregada sozinha com as tarefas da casa e os cuidados com o filho e o cachorro.
+Seu maior desejo é garantir que a esposa tenha mais autonomia e tranquilidade dentro de casa, sem depender sempre dele para resolver problemas relacionados à tecnologia ou segurança. Para Tobias, soluções tecnológicas acessíveis e confiáveis são fundamentais para dar mais independência à Bianca e, ao mesmo tempo, trazer mais segurança e paz para toda a família.
+
+**2\) Mapa de Empatia**
 
 ![MapaEmpatia](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/imagem_2025-09-08_143917738.png?raw=true)
 
 
-**3\) Contexto de Uso \[1 por equipe\]**
+**3\) Contexto de Uso**
 Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pessoa segue com sua rotina normalmente, porém um barulho foi detecado em outro cômodo da casa. A pessoa recebe em seu celular a notificação - "Barulho em QUARTO detectado - Som de objeto quebrando". Assim, ela corre para ver o que aconteceu e se depara com um vaso quebrado do lado de sua cama e seu cachorro em cima da escrivaninha. Após perceber que tudo está bem e arrumar a ocorrência, ela segue sua rotina novamente.
 
-**4\) Jornada do Usuário \[1 por equipe\]**
+**4\) Jornada do Usuário**
+
+#### 1. Situação inicial (cotidiano sem solução)
+- **Ações:** Prepara aulas, cuida da casa, acompanha o filho e o cachorro.  
+- **Pensamentos:** “Preciso estar em todos os lugares ao mesmo tempo.”  
+- **Sentimentos:** Ansiedade, sobrecarga.  
+
+---
+
+#### 2. Descobrindo a solução (primeiro contato)
+- **Ações:** Conhece o sistema que identifica sons e envia alertas visuais no celular.  
+- **Pensamentos:** “Será que isso pode mesmo me ajudar?”  
+- **Sentimentos:** Esperança, curiosidade.  
+
+---
+
+#### 3. Configuração do sistema
+- **Ações:** Tobias ajuda a instalar o aplicativo e vincular a Raspberry Pi ao Wi-Fi.  
+- **Pensamentos:** “Ainda preciso do Tobias para configurar, mas quero aprender.”  
+- **Sentimentos:** Alívio (por contar com ajuda), leve insegurança.  
+
+---
+
+#### 4. Uso no dia a dia
+- **Ações:** Recebe notificações visuais e vibratórias no celular quando o filho chega, quando o cachorro late ou quando a campainha toca.  
+- **Pensamentos:** “Agora não preciso ficar conferindo tudo o tempo todo.”  
+- **Sentimentos:** Tranquilidade, confiança, mais autonomia.  
+
+---
+
+#### 5. Resultado esperado
+- **Ações:** Usa a tecnologia como apoio constante em casa.  
+- **Pensamentos:** “Finalmente tenho mais paz no meu dia a dia.”  
+- **Sentimentos:** Autonomia, segurança, qualidade de vida.
 
 # **Entrega 4  (data) \[em andamento/concluído\]**
 
