@@ -132,6 +132,8 @@
 
 Bianca Bianca, 45 anos, professora de LIBRAS
 
+![Bianca](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/biancabianca.jpg?raw=true) 
+
 Bianca Bianca é surda de nascença e trabalha como professora de LIBRAS em sua própria escola. Ela passa bastante tempo em casa preparando aulas, fazendo as refeições para o filho de 10 anos e cuidando de Thor, o cachorro da família. Bianca não desenvolveu muitas habilidades com tecnologia e depende muito do marido, Tobias, em atividades dessa área.
 Em seu cotidiano, sente-se sobrecarregada: muitas situações a deixam preocupada, pois precisa prestar atenção em todos os lugares da casa. Fica constantemente de olho no celular para abrir a porta assim que o filho chega, verificar se o cachorro está aprontando em outro cômodo, cuidar do preparo das refeições, garantir que não há nenhuma torneira aberta e outros pontos que geram ansiedade.
 
@@ -140,6 +142,8 @@ Bianca deseja ter mais tranquilidade e busca alternativas para resolver esses pr
 *Persona Secundária*
 
 Tobias Tobias, 47 anos, técnico em manutenção elétrica
+
+![Tobias](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/tobiastobias.jpg?raw=true) 
 
 Tobias é casado com Bianca e juntos cuidam do filho de 10 anos. Diferente da esposa, Tobias tem maior familiaridade com tecnologia, embora use mais no trabalho do que no dia a dia em casa. Ele entende o quanto a surdez de Bianca traz preocupações extras e procura sempre estar disponível para apoiá-la.
 No entanto, Tobias também tem sua rotina corrida: trabalha em uma empresa de manutenção elétrica, o que faz com que passe boa parte do dia fora. Isso o preocupa, já que sabe que Bianca pode se sentir sobrecarregada sozinha com as tarefas da casa e os cuidados com o filho e o cachorro.
