@@ -1,7 +1,5 @@
 **Projeto de IHC**
 
-**Projeto XX**
-
 **Detecção e Identificação de som ambiente para auxílio doméstico de pessoas surdas**
 
 **Membros de Equipe:**
@@ -195,8 +193,6 @@ Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pes
 # **Entrega 4  (data) \[em andamento/concluído\]**
 
 **\[1 solução completa por pessoa da equipe\]**
-
-**Dica: Cada membro de equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.**
 
 1) **Cenário de Análise/Problema**
 
