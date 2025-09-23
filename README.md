@@ -149,7 +149,7 @@ Seu maior desejo é garantir que a esposa tenha mais autonomia e tranquilidade d
 
 **2\) Mapa de Empatia**
 
-![MapaEmpatia](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/imagem_2025-09-08_143917738.png?raw=true)
+![MapaEmpatia](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/mapa_empatia.png?raw=true)
 
 
 **3\) Contexto de Uso**
