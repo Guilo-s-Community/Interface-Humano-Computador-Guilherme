@@ -217,9 +217,15 @@ Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situaç
 
 **1\) HTA**
 
+![HTA](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/HTA.jpg?raw=true)
+
 **2\) GOMS**
 
+![GOMS](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/Goms.jpg?raw=true)
+
 **3\) CTT**
+
+![CTT](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/CTT.jpg?raw=true)
 
 # 
 
