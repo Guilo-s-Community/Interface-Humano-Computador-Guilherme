@@ -223,11 +223,27 @@ Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situaç
 
 # 
 
-# **Entrega 6  (data) \[em andamento/concluído\]**
+# **Entrega 6  (data) [concluído]**
 
-**\[PARTE A \- 1 solução por equipe\]**
+![CadOrLogin](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/cadorlogin.jpg?raw=true)
 
-**DICA: protótipo em papel**
+![Cadastro](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/cadastro.jpg?raw=true)
+
+![Login](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/login.jpg?raw=true)
+
+![Home](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/home.jpg?raw=true)
+
+![Perfil](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/perfil.jpg?raw=true)
+
+![Configuração](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/configuracao.jpg?raw=true)
+
+![Ajuda](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/ajuda.jpg?raw=true)
+
+![NovoDispositivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/novodispositivo.jpg?raw=true)
+
+![Vincular](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/vincular.jpg?raw=true)
+
+![ConfigDispostivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/configdispositivo.jpg?raw=true)
 
 # **Entrega 7  (data) \[em andamento/concluído\]**
 
