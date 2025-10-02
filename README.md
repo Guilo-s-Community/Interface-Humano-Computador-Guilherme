@@ -197,21 +197,27 @@ Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pes
 1) **Cenário de Análise/Problema**
 
 Em um dia normal, Bianca, depois de um dia cansativo, quer descansar um pouco em seu sofá de casa e , então, se prepara para ler seu livro favorito. Seu vizinho de apartamento recém-chegado, o Breno, notou que Thor, cachorro de Bianca, estava há muito tempo latindo e, então, decidiu ver o que estava acontecendo, porque Breno precisava terminar seu trabalho. Ao chegar, Breno tocou a campainha, mas ninguém atendeu, tocou novamente, e nada...
-Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situação. O porteiro explicou que Bianca era surda e que ia chamar um amigo próximo que Bianca deixou como contato de emergência para ver se estava tudo bem. Marco, amigo de Bianca, ao receber a ligação do porteiro, foi direto ao prédio e, ao abrir o apartamento deparou com Bianca deitada no sofá lendo um livro. Com cuidado Marco apareceu para Bianca e , com surpresa, ela perguntou o que aconteceu. Com a situação explicada, Marco foi ver porque Thor estava latindo muito e se deparou com várias situações. Ao andar pelo apartamento, Marco reparou que o banheiro estava bem molhado, pois a torneira estava um pouco aberta e vazando água, o Thor estava no quarto de Bianca com a porta fechada, pois Bianca fechou a porta sem saber que Thor ficou por lá, além de um alguns pequenos vasos quebrados pelo chão do quarto que caiu por conta de um forte vento que entrou com a janela aberto, o micro-ondas e a máquina de lavar roupa estavam apitando, pois Bianca havia deixado seu chá para esquentar e as roupas para lavar antes de deitar no sofá pra ler seu livro.
+Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situação. O porteiro explicou que Bianca era surda e que ia chamar um amigo próximo que Bianca deixou como contato de emergência para ver se estava tudo bem. Marco, amigo de Bianca, ao receber a ligação do porteiro, foi direto ao prédio e, ao abrir o apartamento deparou com Bianca deitada no sofá lendo um livro. Com cuidado Marco apareceu para Bianca e , com surpresa, ela perguntou o que aconteceu. Com a situação explicada, Marco foi ver porque Thor estava latindo muito e se deparou com várias situações. Ao andar pelo apartamento, Marco reparou que o banheiro estava bem molhado, pois a torneira estava um pouco aberta e vazando água, o Thor estava no quarto de Bianca com a porta fechada, pois Bianca fechou a porta sem saber que Thor ficou por lá, além de um alguns pequenos vasos quebrados pelo chão do quarto que caiu por conta de um forte vento que entrou com a janela aberto, o micro-ondas e a máquina de lavar roupa estavam apitando, pois Bianca havia deixado seu chá para esquentar e as roupas para lavar antes de deitar no sofá pra ler seu livro. Bianca sempre foi cuidadosa com essas situações e colocava avisos para se lembrar do que precisava fazer, porém ela gostaria de algo que lembrasse exatamente quando acontecesse a ocasião e não ficar verificando todo momento a situação.
 
 3) ## **Questões de Refinamento**
-
-   - Não consigo pensar em nenhuma pergunta.
+   
+Evento - ator - ambiente - objetivo
+   - Atualmente, não há perguntas para refinamento sobre esses elementos
+     
+Planejamento - ação - avaliação
+   - Como os atores alcançam o objetivo atualmente? Como gostariam de fazê-lo?[1]
 
 5) **Refinamento do Cenário Análise/Problema**
 
-   - Fazer depois, talvez.
+Em um dia normal, Bianca, depois de um dia cansativo, quer descansar um pouco em seu sofá de casa e , então, se prepara para ler seu livro favorito. Seu vizinho de apartamento recém-chegado, o Breno, notou que Thor, cachorro de Bianca, estava há muito tempo latindo e, então, decidiu ver o que estava acontecendo, porque Breno precisava terminar seu trabalho. Ao chegar, Breno tocou a campainha, mas ninguém atendeu, tocou novamente, e nada...
+Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situação. O porteiro explicou que Bianca era surda e que ia chamar um amigo próximo que Bianca deixou como contato de emergência para ver se estava tudo bem. Marco, amigo de Bianca, ao receber a ligação do porteiro, foi direto ao prédio e, ao abrir o apartamento deparou com Bianca deitada no sofá lendo um livro. Com cuidado Marco apareceu para Bianca e , com surpresa, ela perguntou o que aconteceu. Com a situação explicada, Marco foi ver porque Thor estava latindo muito e se deparou com várias situações. Ao andar pelo apartamento, Marco reparou que o banheiro estava bem molhado, pois a torneira estava um pouco aberta e vazando água, o Thor estava no quarto de Bianca com a porta fechada, pois Bianca fechou a porta sem saber que Thor ficou por lá, além de um alguns pequenos vasos quebrados pelo chão do quarto que caiu por conta de um forte vento que entrou com a janela aberto, o micro-ondas e a máquina de lavar roupa estavam apitando, pois Bianca havia deixado seu chá para esquentar e as roupas para lavar antes de deitar no sofá pra ler seu livro. Bianca sempre foi cuidadosa com essas situações e colocava avisos para se lembrar do que precisava fazer, porém ela gostaria de algo que lembrasse exatamente quando acontecesse a ocasião e não ficar verificando todo momento a situação.[1]
 
-# **Entrega 5  (data) \[em andamento/concluído\]**
+# **Entrega 5  (data) [concluído]**
 
 **\[1 solução por pessoa\]**
 
-**DICA: nesta entrega a equipe deve descrever as funcionalidades mais importantes da interface/produto. Dividir pelo número de integrantes. Cada um se responsabiliza pela modelagem de 1 bloco. Cada aluno deve modelar pelo menos 1 HTA, 1 GOMS e 1 CTT (de funcionalidade diferentes ou da mesma \- escolha de cada um). Cada diagrama deve ter um texto explicando a funcionalidade.**
+Funcionalidade geral:
+ - O objetivo dessa funcionalidade é cadastrar um novo hardware (dispositivo que detectará o som ambiente) no aplicativo do usuário.
 
 **Análise de Tarefas**
 
@@ -219,17 +225,60 @@ Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situaç
 
 ![HTA](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/HTA.jpg?raw=true)
 
+- Para cadastrar o hardware, o usuário deverá seguir, em ordem, 3 passos:
+  
+  		-Seguir para a tela de cadastro.
+  
+  		-Informar os dados do Wi-Fi:
+  		Nessa etapa o usuário tem duas opções e deverá seguir com alguma das duas:  
+  			- 1: O usuário já informou os dados da rede anteriormente;  
+  			- 2: O usuário deve informar wi-fi e senha da rede em qualquer ordem, preferencialmente o nome da rede antes.
+    
+    	-Escolher o dispositvo.
+
 **2\) GOMS**
 
 ![GOMS](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/Goms.jpg?raw=true)
+
+- Para cadastrar o hardware, o usuário deverá seguir 3 goals principais:
+  
+  		Objetivo 1: Seguir para a tela de cadastro
+  			-O usuário deve clicar no ícone de (+).
+  
+  		Objetivo 2: Informar os dados do Wi-Fi.
+    
+  		Nessa etapa o usuário tem dois métodos e deverá seguir com algum deles:
+  
+  			- Método 1: O usuário já informou os dados da rede anteriormente e as informações já estão salvas no sistema;
+  				- O usuário deverá clicar no botão "vincular"
+  
+  			- Método 2: O usuário ainda não informou o Wi-Fi e deve informá-lo para cadastrar o dispositivo.
+  				- Método 2.A : Informar o nome da rede, e, em seguida, a senha da rede.
+  					-O usuário deve clicar em "nome da rede" e informá-lo;
+  					-O usuário deve clicar em "senha" e informá-la;
+  					-O usuário deve clicar no botão "vincular".
+				- Método 2.A : Informar a senha da rede, e, em seguida, o nome da rede.
+					-O usuário deve clicar em "senha" e informá-la;
+					-O usuário deve clicar em "nome da rede" e informá-lo;
+					-O usuário deve clicar no botão "vincular".
+  
+		Objetivo 3: Escolher o dispositvo.
+    		-O usuário deve clicar no dispositivo encontrado
+  			
 
 **3\) CTT**
 
 ![CTT](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/CTT.jpg?raw=true)
 
+	- Para cadastrar um novo hardware, o usuário deve acessar a tela de cadastro de hardware e informar os dados da rede Wi-Fi, inserindo o nome e a senha em qualquer ordem.
+	Em seguida, o sistema salva as informações da rede e direciona o usuário para a tela de vinculação, onde ele deverá selecionar o dispositivo desejado.
+	Após a escolha, o sistema registra o dispositivo e conclui o processo de vinculação.
+
 # 
 
 # **Entrega 6  (data) [concluído]**
+
+## Protótipos
 
 ![CadOrLogin](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/cadorlogin.jpg?raw=true)
 
