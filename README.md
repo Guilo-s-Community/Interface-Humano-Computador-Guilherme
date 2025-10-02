@@ -190,7 +190,7 @@ Uma casa, um ambiente confortável com barulhos tradicionais do cotidiano, a pes
 - **Pensamentos:** “Finalmente tenho mais paz no meu dia a dia.”  
 - **Sentimentos:** Autonomia, segurança, qualidade de vida.
 
-# **Entrega 4  (data) \[em andamento/concluído\]**
+# **Entrega 4  02/10 [concluído]**
 
 **\[1 solução completa por pessoa da equipe\]**
 
@@ -212,7 +212,7 @@ Planejamento - ação - avaliação
 Em um dia normal, Bianca, depois de um dia cansativo, quer descansar um pouco em seu sofá de casa e , então, se prepara para ler seu livro favorito. Seu vizinho de apartamento recém-chegado, o Breno, notou que Thor, cachorro de Bianca, estava há muito tempo latindo e, então, decidiu ver o que estava acontecendo, porque Breno precisava terminar seu trabalho. Ao chegar, Breno tocou a campainha, mas ninguém atendeu, tocou novamente, e nada...
 Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situação. O porteiro explicou que Bianca era surda e que ia chamar um amigo próximo que Bianca deixou como contato de emergência para ver se estava tudo bem. Marco, amigo de Bianca, ao receber a ligação do porteiro, foi direto ao prédio e, ao abrir o apartamento deparou com Bianca deitada no sofá lendo um livro. Com cuidado Marco apareceu para Bianca e , com surpresa, ela perguntou o que aconteceu. Com a situação explicada, Marco foi ver porque Thor estava latindo muito e se deparou com várias situações. Ao andar pelo apartamento, Marco reparou que o banheiro estava bem molhado, pois a torneira estava um pouco aberta e vazando água, o Thor estava no quarto de Bianca com a porta fechada, pois Bianca fechou a porta sem saber que Thor ficou por lá, além de um alguns pequenos vasos quebrados pelo chão do quarto que caiu por conta de um forte vento que entrou com a janela aberto, o micro-ondas e a máquina de lavar roupa estavam apitando, pois Bianca havia deixado seu chá para esquentar e as roupas para lavar antes de deitar no sofá pra ler seu livro. Bianca sempre foi cuidadosa com essas situações e colocava avisos para se lembrar do que precisava fazer, porém ela gostaria de algo que lembrasse exatamente quando acontecesse a ocasião e não ficar verificando todo momento a situação.[1]
 
-# **Entrega 5  (data) [concluído]**
+# **Entrega 5  25/09 [concluído]**
 
 **\[1 solução por pessoa\]**
 
@@ -276,7 +276,7 @@ Funcionalidade geral:
 
 # 
 
-# **Entrega 6  (data) [concluído]**
+# **Entrega 6  25/09 [concluído]**
 
 ## Protótipos
 
@@ -300,31 +300,46 @@ Funcionalidade geral:
 
 ![ConfigDispostivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/prototype/configdispositivo.jpg?raw=true)
 
-# **Entrega 7  (data) \[em andamento/concluído\]**
+# **Entrega 7  02/10 [concluído]**
 
 **\[PARTE A: 1 solução completa por pessoa da equipe\]**
 
 **1\)	Identificação de Necessidades dos Usuários e Requisitos de IHC: exercício de perguntas**
 
 * **Que dados coletar?**
-
+  
+	-	Infomações pessoais: nome, idade e grau de surdez;
+	- 	Dificuldades atuais;
+	-   Como elas buscam as soluções atuais;
+ 	-   Familiaridade com a tecnologia;  
+    - 	Coletar feedbacks específicos após explicação da solução: o que mudaria? o que acredita ser uma barreira? ... ;
+    - 	Perguntas específicas para cada pessoa, depende da relação dela com a surdez.
+    
 * **De quem coletar?**
-
-	
-
+  	- Pessoas surdas;
+  	- Pessoas/Instituições responsáveis pelos surdos (pais, escolas, babás).
+  
 **2\)	Aspectos Éticos**
 
 * **Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.**
 
-	
+	- Sim, o projeto envolve aspectos éticos baseado no princípio da justiça e equidade, envolvendo a proteção dos dados e utilização deles apenas para desenvolvimento do projeto.
 
 **\[PARTE B: 1 solução completa por pessoa da equipe \- e com técnicas diferente; questionário deve ser uma das técnicas escolhidas\]**
 
 **3\)	Ferramentas de Coleta de Dados**  
 **3.1) nome do instrumento e objetivo de aplicação**  
-**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)**  
-**3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
+	- Questionário com o objetivo de coletar as informações necessárias com praticidade e possibilidade de escalabilidade e melhorias.
 
+
+**3.2) explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)** 
+	- Formular perguntas, separar as melhores e aplicá-las no questionário.
+
+
+**3.3) instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)**
+	Link do questionário:
+	-	https://docs.google.com/forms/d/e/1FAIpQLSeGRXnJkaUiu8sKENSzcnSS1H-NjFLpNw5YLdTkTCqo30dPUA/viewform?usp=header
+	
 # 
 
 # **Entrega 8  (data) \[em andamento/concluído\]**
