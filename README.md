@@ -355,10 +355,9 @@ Funcionalidade geral:
 
 | Característica | Descrição |
 | :---- | :---- |
-| Descrição do Software |  |
-| Descrição do Hardware |  |
-| LISTA DE Capacidades da Plataforma (com explicação) |  |
-| LISTA DE Restrições da Plataforma (com explicação) |  |
+| Descrição do Software e Hardawre| Hardware capaz de detectar e identificar um som ambiente integrado com um software que notifcará a pessoa do evento ocorrido |
+| LISTA DE Capacidades da Plataforma (com explicação) | Possibilidade de usar em qualquer lugar |
+| LISTA DE Restrições da Plataforma (com explicação) | Dependência de bateria - Dependência de Internet - Tamanho de tela - Muitas notificações seguidas|
 
    
 
