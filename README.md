@@ -401,13 +401,27 @@ Funcionalidade geral:
 
       
 
-# **Entrega 9 (data) \[em andamento/concluído\]**
-
-**\[1 solução completa por pessoa da equipe\]**
+# **Entrega 9 12/10 [concluído]**
 
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
 
-2) **Design Centrado na Comunicação**
+Em um dia normal, Bianca, depois de um dia cansativo, quer descansar um pouco em seu sofá de casa e ler seu livro favorito e guarda seu celular no bolso.[1] Seu vizinho de apartamento recém-chegado, o Breno, notou que Thor, cachorro de Bianca, estava há muito tempo latindo e, então, decidiu ver o que estava acontecendo, porque Breno precisava terminar seu trabalho. Ao chegar, Breno tocou a campainha, mas ninguém atendeu, tocou novamente, e nada...
+Breno, não sabendo se Bianca estava em casa, foi ao porteiro explicar a situação. O porteiro explicou que Bianca era surda e que ia chamar um amigo próximo que Bianca deixou como contato de emergência para ver se estava tudo bem. Marco, amigo de Bianca, ao receber a ligação do porteiro, foi direto ao prédio e, ao abrir o apartamento deparou com Bianca deitada no sofá lendo um livro. [2]
+Com cuidado Marco apareceu para Bianca e , com surpresa, ela perguntou o que aconteceu. Com a situação explicada, Marco foi ver porque Thor estava latindo muito e se deparou com várias situações. Ao andar pelo apartamento, Marco reparou que o banheiro estava bem molhado, pois a torneira estava um pouco aberta e vazando água, o Thor estava no quarto de Bianca com a porta fechada, pois Bianca fechou a porta sem saber que Thor ficou por lá, além de um alguns pequenos vasos quebrados pelo chão do quarto que caiu por conta de um forte vento que entrou com a janela aberto, o micro-ondas e a máquina de lavar roupa estavam apitando, pois Bianca havia deixado seu chá para esquentar e as roupas para lavar antes de deitar no sofá pra ler seu livro. [3]
+Antes de Bianca descansar, ela colocou um chá pra preparar no micro-ondas e colocou as roupas dna máquina de lavar. Ao se deitar, o celular de Bianca vibra em seu bolso com a notifcação “Barulho de água em Banheiro”, assim ela se levantou e se deparou com a torneira um pouco aberta e que se continuasse iria molhar todo o banheiro e logo em seguida outro aviso veio : “Barulho de cachorro em Quarto”, e então Bianca abriu a porta do quarto para que Thor pudesse sair de lá e então aproveitou para fechar a janela, pois reparou que estava um vento forte entrando por lá. Assim, Bianca voltou a se deitar e ler seu livro. Minutos depois outra notificação veio em seu celular : “Barulho de micro-ondas em Cozinha” e então ela se lembrou do seu chá e aproveito para tomá-lo quentinho enquanto lia o livro. Bianca estava totalmente entretida em seu livro quando outra notificação tocou, agora informando: “Barulho de Máquina em Lavanderia”, então Bianca se lebatnou e desligou a máquina de lavar e colocou as roupas para secar. Assim, Bianca conseguiu realizar todas as tarefas que precisava, prevenir outras situações e descansar do jeito que queria, mantendo sua autonomia sem depender e envolver outras pessoas na ocasião.[4]
+Bianca sempre foi cuidadosa com essas situações e colocava avisos para se lembrar do que precisava fazer, porém ela gostaria de algo que lembrasse exatamente quando acontecesse a ocasião e não ficar verificando todo momento a situação.[2]
+
+Legenda - a história refere-se ao texto que antecede os [x]
+
+[1]- Cenário mantido igual
+
+[2]- Cenário não ocorrido 
+
+[3]- Cenário ocorrido com mudanças
+
+[4]- Cenário novo com a solução
+
+3) **Design Centrado na Comunicação**
 
 **Nome do Cenário: XXXXXX**
 
