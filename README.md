@@ -364,7 +364,7 @@ Funcionalidade geral:
 
 2. **Princípios Gerais do Projeto**  
    
-**Pilar do negócio**
+**Pilar de negócio do mercado**
  
 | Nome | Descrição | Link |
 | :---- | :---- | :---- |
@@ -382,21 +382,22 @@ Funcionalidade geral:
 3. **Metas de Usabilidade**
 
    1. **Qualitativo**
-
-    
-
-
-   2. **Quantitativo**  
       
+      	- Tela simples
+      	- Textos diretos
+      	- Feedback constante para o usuário
+      	- Ao selecionar um texto, possibilita a acessibilidade para LIBRAS 
+
+   3. **Quantitativo**  
 
 | Metas | Porcentagem | Justificativa |
 | ----- | :---- | :---- |
-| Facilidade de … |  |  |
-|  |  |  |
-|  |  |  |
-|  | 1% |  |
-|  | 20% |  |
-| **Total** | **100%** |  |
+| Facilidade de aprendizado | 10% | Só há a necessidade de aprender se for a primeira vez de uso em um aplicativo de Smart Home, Guilo's Sound seuge a maioria dos padõres de mercado |
+| Facilidade de memorização | 10% | Pouca taxa de memorização, apenas em algum passo mais importante, uma dificuldade do usuário ou memorizar a solução de algum erro específico|
+| Eficiência | 30% | Importante passo para não exigir muito tempo  e dúvidas do usuário  |
+| Eficácia | 30% | Importante passo do para permitir que o usuário siga o fluxo do aplicativo e cumpra todas as tarefas sem erro |
+| Satisfação | 20% | Usuário deve se sentir seguro com o aplicativo, não gerar dúvidas e passos incompletos para ter o retorno positivo dele  |
+| **Total** | **100%** | Porcentagem |
 
       
 
