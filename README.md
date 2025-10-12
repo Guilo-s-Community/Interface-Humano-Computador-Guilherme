@@ -401,7 +401,7 @@ Funcionalidade geral:
 
       
 
-# **Entrega 9 12/10 [concluído]**
+# **Entrega 9 12/10 [Em andamento]**
 
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
 
@@ -423,7 +423,7 @@ Legenda - a história refere-se ao texto que antecede os [x]
 
 3) **Design Centrado na Comunicação**
 
-**Nome do Cenário: XXXXXX**
+**Nome do Cenário: Cadastro de Usuário no aplicativo**
 
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
