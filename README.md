@@ -340,7 +340,7 @@ Funcionalidade geral:
 	
 # 
 
-# **Entrega 8  (data) \[em andamento/concluído\]**
+# **Entrega 8  12/10 [concluído]**
 
 **\[1 solução por equipe\]**
 
@@ -359,18 +359,23 @@ Funcionalidade geral:
 
    
 
-2. **Princípios Gerais do Projeto (INCREMENTAR TABELA)**  
+2. **Princípios Gerais do Projeto**  
    
-
+**Pilar do negócio**
+ 
 | Nome | Descrição | Link |
 | :---- | :---- | :---- |
 | Descrição do Contexto | .  |  |
 | Lei Geral de Proteção de Dados (LGPD) \- Lei n.º 13.709/2018 | A LGPD é a legislação brasileira que regulamenta o tratamento de dados pessoais no Brasil. É importante para o projeto porque estabelece regras sobre como os dados dos usuários devem ser coletados, armazenados, processados e protegidos, garantindo sua privacidade e segurança. | [https://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) |
 | Lei n.º 10.098/2000 \- Lei da Acessibilidade |  Esta lei brasileira estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida. É importante para o projeto porque define diretrizes para tornar produtos e serviços, incluindo interfaces de usuário, acessíveis a todos os usuários, independentemente de suas habilidades físicas ou cognitivas. | [https://www.planalto.gov.br/ccivil\_03/leis/l10098.htm](https://www.planalto.gov.br/ccivil_03/leis/l10098.htm) |
 | ABNT NBR ISO 9241 Ergonomia da interação humano-sistema |  Esta série de normas brasileiras, baseadas nas normas ISO 9241, fornece diretrizes e orientações para o design centrado no usuário de sistemas interativos, incluindo a concepção de interfaces de usuário. A parte 210 aborda o processo de design centrado no humano, enquanto a parte 11 fornece orientações específicas sobre usabilidade. Essas normas são importantes para o projeto porque estabelecem princípios e métodos para garantir que a interface do usuário atenda às necessidades e expectativas dos usuários. | [https://www.inf.ufsc.br/\~edla.ramos/ine5624/\_Walter/Normas/Parte%2011/iso9241-11F2.pdf](https://www.inf.ufsc.br/~edla.ramos/ine5624/_Walter/Normas/Parte%2011/iso9241-11F2.pdf) |
-|  | . |  |
+| Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015) | Define critérios de acessibilidade, comunicação e tecnologia assistiva e especialmente para comprovar que o produto promove autonomia e não cria barreiras de uso. | 
+[https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm] (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) |
+| Norma IEC 62368-1 (substituindo 60065 / 60950) | Normativa internacional sobre segurança de equipamentos de tecnologia da informação e áudio/vídeo |[https://icertifi.com/iec-62368-certification-replacing-iec-60950-1-and-iec-60065/?] (https://icertifi.com/iec-62368-certification-replacing-iec-60950-1-and-iec-60065/?) |
 
-   
+**Pilar da Interface**
+![Patterns](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/imagem_2025-10-12_143807226.png?raw=true)
+
 
 3. **Metas de Usabilidade**
 
