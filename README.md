@@ -5,7 +5,6 @@
 **Membros de Equipe:**
 
 - Guilherme Marcato Mendes Justiça - 22.225.030-0
-- Paulo Vinicius Araujo Feitosa - 24.122.042-5
 
 # **Entrega 1 (29/08) - [concluído]**
 
@@ -13,7 +12,6 @@
 
 1.1) Membros de Equipe:
 - Guilherme Marcato Mendes Justiça 22.225.030-0
-- Paulo Vinicius Araujo Feitosa 24.122.042-5
 
 1.2) Título Original do TCC:
 
