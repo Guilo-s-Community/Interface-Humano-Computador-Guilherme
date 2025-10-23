@@ -432,7 +432,7 @@ Legenda - a história refere-se ao texto que antecede os [x]
 | restrições dos dados | D: Para realizar o cadastro, você deve informar um e-mail válido que aceitamos e uma senha que cumpra os requisitos do nosso aplicativo U: Ok, seguirei os padrões do seu aplicativo  |
 | cadastrar dados do usuário | D: Vi que você informou uma senha de confirmação diferente da anterior, poderia colocar as duas senhas iguais? U: Verdade, escrevi errado no campo de confirmação!  |
 | cadastrar dados do usuário | D: Agora sim, seu cadastro foi realizado. U: Que bom! |
-| mensagem | D: Se quiser pode entrar no aplicativo agora ou deixar para depois. U: Entrarei agora!|
+| mensagem | D: Se preferir, você pode entrar no aplicativo agora ou posteriormente. U: Entrarei agora!|
 
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
