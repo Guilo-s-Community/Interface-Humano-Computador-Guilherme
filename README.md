@@ -408,7 +408,7 @@ Funcionalidade geral:
 
       
 
-# **Entrega 9 12/10 [Concluído]**
+# **Entrega 9 12/10 [concluído]**
 
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
 
@@ -456,29 +456,24 @@ Cadastro de Hardware (C) - Cadatro de novos dispositivos do usuário
 | Campo “Senha Wi-Fi” | Transformados | Texto  | Não pode ser nulo | — | Campo obrigatório - Oculta senha | - | Representa a identificação da rede para conexão do hardware |
 | Botão “Vincular Dispositivo” | Convencionais | Ação | Disponível apenas após Wi-Fi preenchido | - | Alerta para preecher os campos primeiro | Exibe mensagem “preencha os dados” em caso de erro | Inicia o processo de pareamento |
 
-# **Entrega 10 (data) \[em andamento/concluído\]**
-
-**\[1 solução completa por pessoa da equipe\]**
+# **Entrega 10 (data) [concluído]**
 
 **MOLIC**
 
+![Molic](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/molic.jpg?raw=true)
+
 **Nome do Cenário:**  
-**Diagrama:**
+**Diagrama: Informações do Dispositivo**
 
-# **Entrega 11 (data) \[em andamento/concluído\]**
+# **Entrega 11 (data) \[concluído\]**
 
-**\[1 solução completa por pessoa da equipe\]**
-
-# 
+![infoHardware](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/info_hardware.jpg?raw=true)
 
 **Protótipo Correspondente ao MOLIC**  
 **Link para o FIGMA:**
 
 # **Entrega 12 (data) \[em andamento/concluído\]**
 
-**\[1 solução por equipe\]**
-
-# 
 
 1) **Planejamento de Usabilidade (método DECIDE)**
 
