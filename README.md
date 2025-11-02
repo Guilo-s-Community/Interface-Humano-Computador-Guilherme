@@ -11,7 +11,7 @@
 **1\) Conhecendo o Problema** 
 
 1.1) Membros de Equipe:
-- Guilherme Marcato Mendes Justiça 22.225.030-0
+- Guilherme Marcato Mendes Justiça - 22.225.030-0
 
 1.2) Título Original do TCC:
 
