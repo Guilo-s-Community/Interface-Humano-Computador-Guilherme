@@ -380,6 +380,8 @@ Funcionalidade geral:
 | Psicologia das cores | Utilza-se a cor Roxa por representar magia, da fé, do abstrato, da nobreza e da sabedoria | (https://www.serasaexperian.com.br/conteudos/psicologia-das-cores-no-marketing-digital) |
 | Estratégia da tipografia | Urbanist é uma fonte sans-serif geométrica de baixo contraste, inspirada na tipografia e no design modernistas | (https://firmorama.com/uso-estrategico-da-tipografia-como-meio-de-transmitir-mensagens-e-a-personalidade-da-marca) |
 | Logo Invertido | A variação do logotipo é a arte de reorganizar seu logotipo principal, para que funcione em várias colocações | (https://www.tailorbrands.com/pt-br/blog/variacoes-de-logotipo) |
+
+
 ![Patterns](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/imagem_2025-10-12_143807226.png?raw=true)
 
 
@@ -406,7 +408,7 @@ Funcionalidade geral:
 
       
 
-# **Entrega 9 12/10 [Em andamento]**
+# **Entrega 9 12/10 [Concluído]**
 
 1) **Cenários de Interação (destacar em cor diferente o texto alterado entre Cenário Problema e Cenário de Interação)**
 
@@ -433,36 +435,26 @@ Legenda - a história refere-se ao texto que antecede os [x]
 | tópico \> subtópico (diálogo) | falas e signos |
 | :---- | :---- |
 | cadastrar no aplicativo | U: Preciso me cadastrar no aplicativo… |
-| \>informar dados do usuário  | D: Qual e-mail e senha que gostaria de utilizar? U: Quero informar meu e-mail principal e minha senha padrão|
-| restrições dos dados | D: Para realizar o cadastro, você deve informar um e-mail válido que aceitamos e uma senha que cumpra os requisitos do nosso aplicativo U: Ok, seguirei os padrões do seu aplicativo  |
-| cadastrar dados do usuário | D: Vi que você informou uma senha de confirmação diferente da anterior, poderia colocar as duas senhas iguais? U: Verdade, escrevi errado no campo de confirmação!  |
+| \>informar dados do usuário  | D: Qual **e-mail** e **senha** que gostaria de utilizar? U: Quero informar meu **e-mail** principal e minha **senha** padrão|
+| restrições dos dados | D: Para realizar o cadastro, você deve informar um **e-mail** válido que aceitamos e uma **senha** que cumpra os requisitos do nosso aplicativo U: Ok, seguirei os padrões do seu aplicativo  |
+| cadastrar dados do usuário | D: Vi que você informou uma **senha de confirmação** diferente da anterior, poderia colocar as duas **senhas** iguais? U: Verdade, escrevi errado no **campo de confirmação**!  |
 | cadastrar dados do usuário | D: Agora sim, seu cadastro foi realizado. U: Que bom! |
 | mensagem | D: Se preferir, você pode entrar no aplicativo agora ou posteriormente. U: Entrarei agora!|
 
 
 3) **Mapa de Objetivos (cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação)**
+   
+![MapaObjetivo](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/Flowchart.jpg?raw=true)
 
 4) **Esquema Conceitual de Signos**
 
-Exemplo: (fazer a junção das 3 tabelas abaixo em uma única)
+Cadastro de Hardware (C) - Cadatro de novos dispositivos do usuário
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **origem** | **observações** |
-| usuário | domínio |  |
-| senha | domínio |  |
-
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |
-| :---- | :---- | :---- | :---- |
-| **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
-| usuário | texto | não pode ser nulo | — |
-| senha | texto | não pode ser nulo | — |
-
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **prevenção** | **recuperação** |
-| usuário | PP: campo obrigatório | RA |
-| senha | PP campo obrigatório  | RA |
+| **Signo** | **Origem** | **Tipo de Conteúdo** | **Restrição sobre Conteúdo** | **Valor Default** | **Prevenção (PP)** | **Recuperação (RA)** | **Observações / Significado** |
+| :-------------------------------- | :------------------- | :------------------- | :------------------------------------------- | :---------------------- | :------------------------------------------------ | :---------------------------------------------- | :---------------------------------------------------------- |
+| Campo “Nome da Rede Wi-Fi” | Transformados | Texto | Não pode ser nulo | — | Campo obrigatório | - | Representa a identificação da rede para conexão do hardware |
+| Campo “Senha Wi-Fi” | Transformados | Texto  | Não pode ser nulo | — | Campo obrigatório - Oculta senha | - | Representa a identificação da rede para conexão do hardware |
+| Botão “Vincular Dispositivo” | Convencionais | Ação | Disponível apenas após Wi-Fi preenchido | - | Alerta para preecher os campos primeiro | Exibe mensagem “preencha os dados” em caso de erro | Inicia o processo de pareamento |
 
 # **Entrega 10 (data) \[em andamento/concluído\]**
 
