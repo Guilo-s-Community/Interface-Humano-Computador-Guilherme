@@ -465,12 +465,9 @@ Cadastro de Hardware (C) - Cadatro de novos dispositivos do usuário
 **Nome do Cenário:**  
 **Diagrama: Informações do Dispositivo**
 
-# **Entrega 11 (data) \[concluído\]**
+# **Entrega 11 (data) [concluído]**
 
 ![infoHardware](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/info_hardware.jpg?raw=true)
-
-**Protótipo Correspondente ao MOLIC**  
-**Link para o FIGMA:**
 
 # **Entrega 12 (data) \[em andamento/concluído\]**
 
