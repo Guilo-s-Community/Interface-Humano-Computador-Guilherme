@@ -456,7 +456,7 @@ Cadastro de Hardware (C) - Cadatro de novos dispositivos do usuário
 | Campo “Senha Wi-Fi” | Transformados | Texto  | Não pode ser nulo | — | Campo obrigatório - Oculta senha | - | Representa a identificação da rede para conexão do hardware |
 | Botão “Vincular Dispositivo” | Convencionais | Ação | Disponível apenas após Wi-Fi preenchido | - | Alerta para preecher os campos primeiro | Exibe mensagem “preencha os dados” em caso de erro | Inicia o processo de pareamento |
 
-# **Entrega 10 (data) [concluído]**
+# **Entrega 10 (12/10) [concluído]**
 
 **MOLIC**
 
@@ -465,24 +465,26 @@ Cadastro de Hardware (C) - Cadatro de novos dispositivos do usuário
 **Nome do Cenário:**  
 **Diagrama: Informações do Dispositivo**
 
-# **Entrega 11 (data) [concluído]**
+# **Entrega 11 (12/10) [concluído]**
 
 ![infoHardware](https://github.com/Guilo-s-Community/Interface-Humano-Computador-Guilherme/blob/main/images/info_hardware.jpg?raw=true)
 
-# **Entrega 12 (data) \[em andamento/concluído\]**
+# **Entrega 12 (22/11) [concluído]**
 
 
-1) **Planejamento de Usabilidade (método DECIDE)**
+# Planejamento de Usabilidade – Método DECIDE
 
-| D |  |
-| :---: | :---- |
-| **E** |   |
-| **C** |  |
-| **I** |  |
-| **D** |  |
-| **E** | A análise e produção dos resultados precisam considerar vários aspectos… |
+| **Letra** | **Descrição / Preenchimento** |
+|----------|-------------------------------|
+| **D – Determinar os objetivos da avaliação** | Avaliar se os usuários conseguem cadastrar e vincular o hardware de forma simples, sem dificuldades técnicas; verificar se a interface é acessível para pessoas surdas; medir se o fluxo evita erros e reduz esforço cognitivo. |
+| **E – Explorar perguntas a serem respondidas** | - O usuário entende como inserir os dados de Wi-Fi?<br> - Ele compreende quando o dispositivo BLE é encontrado?<br> - Há confusão ao selecionar o dispositivo?<br> - O usuário percebe claramente feedbacks de sucesso/erro?<br> - O sistema passa sensação de confiabilidade e segurança? |
+| **C – Escolher métodos de avaliação** | Avaliação heurística, teste de usabilidade com observação, entrevistas rápidas pós-teste, análise de tarefas e coleta de métricas (tempo, erros, cliques). |
+| **I – Identificar usuários** | Usuários primários: pessoas surdas com baixa familiaridade tecnológica (como Bianca).<br> Usuários secundários: familiares que configuram dispositivos (como Tobias). |
+| **D – Decidir questões práticas** | Local: teste no próprio celular dos avaliados ou ambiente controlado.<br> Tempo: 15–20 minutos por sessão.<br> Materiais: protótipo funcional ou versão beta do app, roteiro de tarefas e formulário de avaliação. |
+| **E – Avaliar, interpretar e apresentar os dados** | A análise deve considerar: facilidade de uso, clareza visual, fluidez do fluxo BLE, erros encontrados, expectativas dos usuários e sugestões. Resultados devem ser categorizados em eficiência, eficácia e satisfação, com gráficos e anotações qualitativas. |
 
-2) Lista de Instrumentos (exemplos \- dica… tudo pronto por atividades anteriores ou compartilhado pelo professor)  
+
+2) Lista de Instrumentos
    1) Termo de consentimento  
    2) Questionários  
    3) Tabela de Observação  
@@ -541,13 +543,148 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 | 3 | Grave | Problema de alta prioridade (deve ser reparado) |
 | 4 | Catastrófico | Muito grave, deve ser reparado de qualquer forma. |
 
-**\[colocar o print\]**
 
-**\[escolher a tabela de declaração de violação padrão da equipe\]**
+## **1. Visibilidade do Status do Sistema**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Durante a vinculação BLE, não há indicador claro de progresso — apenas um texto estático “Conectando...”, sem barra de progresso ou animação. | **3 (Grave)** |
+| Após adicionar um novo dispositivo, há um pequeno feedback confirmando que o cadastro foi concluído com sucesso. | **2 (Simples)** |
+
+---
+
+## **2. Compatibilidade entre Sistema e Mundo Real**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Em certas telas, mensagens como “Aguarde…” não explicam claramente o que está sendo processado. | **2 (Simples)** |
+
+---
+
+## **3. Controle e Liberdade para o Usuário**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Durante a vinculação BLE, não há opção de cancelar o processo — o usuário precisa aguardar o tempo limite. | **3 (Simples)** |
+| Ao cadastrar Wi-Fi, se o usuário erra a senha, não há botão de “Limpar campos rapidamente”. | **1 (Cosmético)** |
+
+---
+
+## **4. Consistência e Padrões**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Símbolo do Youtube está muito grande | **0 (Sem importância)** |
+
+
+---
+
+## **5. Prevenção de Erros**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Ao tentar vincular novamente um dispositivo já vinculado, o app não avisa — apenas repete o processo. | **4 (Catastrófico)** |
+
+---
+
+## **6. Reconhecimento em Lugar de Lembrança**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Alguns botões não têm rótulo (dependem só do ícone), exigindo que o usuário lembre o significado. | **1 (Cosmético)** |
+
+---
+
+## **7. Flexibilidade e Eficiência de Uso**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Não há atalhos ou ações rápidas para usuários experientes — tudo precisa ser feito por navegação completa. | **1 (Cosmético)** |
+| A lista de dispositivos não permite ações rápidas (ex.: deslizar para editar/remover). | **2 (Simples)** |
+
+---
+
+## **8. Projeto Minimalista e Estético**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Tela de tutorial possui muito texto acumulado antes da expansão dos tópicos, gerando poluição visual. | **2 (Simples)** |
+
+
+---
+
+## **9. Auxiliar a Recuperação de Erros**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Mensagens de erro BLE são vagas, como “Algo deu errado”, sem indicar o motivo. | **4 (Catastrófico)** |
+| Ao falhar o envio de credenciais Wi-Fi, o aplicativo não sugere ações como “Verifique a senha” ou “Aproxime-se da Raspberry Pi”. | **3 (Grave)** |
+
+---
+
+## **10. Ajuda e Documentação**
+| Problema Identificado | Severidade |
+| --- | --- |
+| Não há uma seção de FAQ rápida dentro do app; o usuário depende do tutorial em vídeo. | **2 (Simples)** |
+
+---
+
+
+
+
+
 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
+   
+## **1. Visibilidade do status do sistema**
+ 
+O aplicativo exibe feedbacks ao digitar e-mail e senha para confirmação.
 
-**DICA: 1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
+---
+
+## **2. Compatibilidade entre o sistema e o mundo real**
+
+A interface usa termos claros e familiares, como “Wi-Fi”, “Senha”, “Adicionar dispositivo”, evitando os técnicos.
+
+---
+
+## **3. Controle e liberdade do usuário**
+
+Durante o processo de vinculação, o usuário pode cancelar ou retornar à etapa anterior sem perder os dados já preenchidos.
+
+---
+
+## **4. Consistência e padrões**
+ 
+Botões, ícones e cores seguem o mesmo padrão visual em todas as telas, evitando confusão e mantendo familiaridade.
+
+---
+
+## **5. Prevenção de erros**
+
+Campos obrigatórios como nome da rede e senha impedem o usuário de prosseguir com informações incompletas.
+
+---
+
+## **6. Reconhecimento em vez de lembrança**
+  
+A lista de dispositivos BLE próximos aparece automaticamente, evitando que o usuário tenha que lembrar ou digitar o nome do dispositivo.
+
+---
+
+## **7. Flexibilidade e eficiência de uso**
+
+O aplicativo permite que usuários experientes concluam o fluxo rapidamente, salvando automaticamente o dispositivo após a vinculação.
+
+---
+
+## **8. Estética e design minimalista**
+ 
+As telas possuem apenas os elementos essenciais, com boa hierarquia visual e ausência de informações irrelevantes.
+
+---
+
+## **9. Ajudar o usuário a reconhecer, diagnosticar e recuperar erros**
+**Boa prática:**  
+Quando a conexão BLE falha, o aplicativo exibe mensagens claras, como “Não foi possível conectar ao dispositivo. Tente novamente”, sem jargões ou códigos de erro.
+
+---
+
+## **10. Ajuda e documentação**
+ 
+O aplicativo possui um tutorial em vídeo integrado, guiando o usuário passo a passo no processo de configuração e vinculação do dispositivo.
+
 
 # **Entrega 14 (data) \[em andamento/concluído\]**
 
