@@ -490,11 +490,10 @@ Cadastro de Hardware (C) - Cadatro de novos dispositivos do usuário
    3) Tabela de Observação  
    4) Formulário de avaliação Heuristica.
 
-# **Entrega 13 (data) \[em andamento/concluído\]**
+# **Entrega 13 (22/11) [concluído]**
 
-DICA: MATERIAL ABAIXO DISPONÍVEL EM ARQUIVO NO MOODLE.
 
-1) **Avaliação de IHC através de inspeção HEURÍSTICA \[1 solução completa por pessoa da equipe \- todas as telas do projeto\]**
+1) **Avaliação de IHC através de inspeção HEURÍSTICA**
 
 **DICA: SOMENTE VIOLAÇÕES**
 
@@ -621,10 +620,6 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 ---
 
 
-
-
-
-
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
    
 ## **1. Visibilidade do status do sistema**
@@ -686,39 +681,79 @@ Quando a conexão BLE falha, o aplicativo exibe mensagens claras, como “Não f
 O aplicativo possui um tutorial em vídeo integrado, guiando o usuário passo a passo no processo de configuração e vinculação do dispositivo.
 
 
-# **Entrega 14 (data) \[em andamento/concluído\]**
-
-**\[1 solução completa por pessoa da equipe\]**
+# **Entrega 14 (22/11) [concluído]**
 
 **Método de Avaliação de Usabilidade por Observação do Usuário**   
-**(o número de usuários observados é igual o número de membros da equipe)**
 
 1) **Fluxograma de Avaliação de Usabilidade por Observação do Usuário \[1 solução por equipe\]**
 
-2) **DESCRIÇÃO DO PROCEDIMENTO DE PREPARAÇÃO DO TESTE \[1 solução por equipe\]**
+2) **DESCRIÇÃO DO PROCEDIMENTO DE PREPARAÇÃO DO TESTE**
 
-**Passo1:**  
-**Passo 2: Lista de tarefas que o usuário deve cumprir.**  
-**Passo 3: Formulário de perfil do usuário**  
-**etc…**
+### **Passo 1 — Preparação do Ambiente**
+- Definição do local do teste.  
+- Configuração do dispositivo com o sistema pronto para uso.  
+- Ajuste de gravação.  
+- Organizar câmera/celular para registrar os testes.
+- Participação de intérpretes treinados para explicar sobre a avaliação.
+- Avisar ao participante que não poderá receber ajuda durante a execução das tarefas.
+- O participante foi informado de que não estava sendo avaliado, apenas o sistema.
+- Autorização para gravação.
+  
 
-3) **RESULTADOS DO TESTE \[1 solução por equipe\]**
+### **Passo 2 — Lista de Tarefas**
+
+1. **Cadastrar-se no aplicativo.**
+2. **Passar por todas as telas**
+3. **Cadastrar o hardware no aplicativo.**
+4. **Vincular o hardware via BLE.**  
+5. **Verificar se o dispositivo aparece na tela principal.**  
+6. **Acessar a tela de perfil e alterar senha.**
+7. **Acessar a tela de informações do hardware e alterar**
+8. **Executar uma simulação de notificação.**
+
+### **Passo 3 — Formulário de Perfil do Usuário**
+- Idade  
+- Grau de familiaridade com tecnologia  
+- Tecnologia utilizada no seu dia a dia  
+- Experiência prévia com aplicativos de configuração de dispositivos
+- Aceita ser gravado
+- Observações gerais  
+
+### **Passos Adicionais**
+- Relembrar que não é ele que está sendo avaliado, mas o sistema.  
+- Agradecer e iniciar a gravação.
+
+---
+
+3) **RESULTADOS DO TESTE**
 
 **Avaliação de cada Tarefa (para cada usuário)**
 
-| Tarefa | Grau de Sucesso | Total de Erros cometidos | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| **1** | **Sucesso Parcial** | **2** | **Não completou a tarefa(1), (1) Compreensão** | **5 segundos** | **Confusão Moderada** |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros | Tempo Necessário | Grau de Satisfação |
+| ------ | --------------- | -------------- | --------------- | ---------------- | ------------------ |
+| **1** | Sucesso Completo | 0 | - | 15s | Satisfeito |
+| **2** | Sucesso Parcial | 1 | Não entendeu onde aparecia o Drawer | 1m| Moderado |
+| **3** | Sucesso Parcial | 2 | Não entendeu porque tinha que por wifi e senha, não entendeu o que estava acontecendo| 1m | Confuso |
+| **4** | Sucesso Parcial | 2 | Não entendeu porque tinha que por wifi e senha, não entendeu o que estava acontecendo| 1m | Confuso |
+| **5** | Sucesso Completo | 0 | - | 5s | Satisfeito |
+| **6** | Sucesso Completo | 0 | - | 1m | Satisfeito |
+| **7** | Sucesso Completo | 0 | - | 15s | Satisfeito |
+| **8** | Sucesso Completo | 0 | - | 1m | Muito Satisfeito |
 
 **Links dos vídeos:**
 
+- Privados para segurança de direito de imagem.
+
 **Respostas do Formulário do Usuário:**
 
+Participante
+- Idade : 46
+- Grau de familiaridade com tecnologia : baixo
+- Tecnologia utilizada no seu dia a dia : celular, tv 
+- Experiência prévia com aplicativos de configuração de dispositivos : 0
+- Aceita ser gravado : sim
+- Observações gerais : nenhuma 
+
 **Conclusão da avaliação por observação do usuário:**
+
+A avaliação revelou que o fluxo principal do sistema está funcional, mas ainda existem pontos que geram dúvida durante etapas específicas, especialmente as relacionadas ao entendimento do processo de configuração do dispositivo. As tarefas iniciais e finais foram concluídas com facilidade, indicando que a interface, em sua maior parte, é intuitiva e direta. No entanto, ações que envolvem compreensão do propósito do Wi-Fi, senha e funcionamento interno da vinculação apresentaram maior taxa de erro e deixaram o usuário confuso.
